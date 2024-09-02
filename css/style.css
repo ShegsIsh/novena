@@ -1036,26 +1036,6 @@ a:focus {
   color: #e12454;
 }
 
-.blog-item-content h2 {
-  font-weight: 600;
-  font-size: 38px;
-}
-
-/*=================================================================
-  Single Blog Page
-==================================================================*/
-.nav-links .page-numbers {
-  display: inline-block;
-  width: 50px;
-  height: 50px;
-  border-radius: 100%;
-  background: #eee;
-  text-align: center;
-  padding-top: 13px;
-  font-weight: 600;
-  margin-right: 10px;
-}
-
 .nav-links .page-numbers:hover {
   background: #223a66;
   color: #fff;
